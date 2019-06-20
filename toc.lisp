@@ -360,7 +360,7 @@
     ("Moroni"
      :abbr "Moro." :url "moro"
      (04 03 04 03 02 09 48 30 26 34))))
-  TODO Think through structure better.
+  ;; TODO Think through structure better.
   ("Doctrine and Covenants Virtual"
    :abbr "dcv" :url "dc-testament" :virtual
    (("Doctrine and Covenants"
@@ -379,12 +379,13 @@
          11 34 10 02 19 01 16 06 07 01
          46 09 17 145 4 03 12 25 09 23
          08 66 74 12 07 42 10 60))
-    TODO Requires further attention.
-    ("Official Declaration 1"
-     :abbr "OD 1" :url "od/1")
-    TODO Requires further attention.
-    ("Official Declaration 2"
-     :abbr "OD 2" :url "od/2")))
+    ;; ;; TODO Requires further attention.
+    ;; ("Official Declaration 1"
+    ;;  :abbr "OD 1" :url "od/1")
+    ;; ;; TODO Requires further attention.
+    ;; ("Official Declaration 2"
+    ;;  :abbr "OD 2" :url "od/2")
+    ))
   ("Pearl of Great Price"
    :abbr "pgp" :url "pgp" :virtual
    (("Moses"
@@ -392,14 +393,14 @@
      (42 31 25 32 59 68 69 30))
     ("Abraham"
      :abbr "Abr." :url "abr"
-     (31 25 28 31 21 TODO Add the Facsimilies
+     (31 25 28 31 21 ;TODO Add the Facsimilies
          ))
     ("Joseph Smith - Matthew"
      :abbr "JS-M" :url "js-m"
      (55))
     ("Joseph Smith - History"
      :abbr "JS-H" :url "js-h"
-     (75 There are some footnotes in here.
+     (75 ;There are some footnotes in here.
          ))
     ("Articles of Faith"
      :abbr "A of F" :url "a-of-f"
